@@ -23,7 +23,7 @@ const slides: Slide[] = [
   },
   {
     id: 2,
-    image: 'https://lakshmisharath.com/wp-content/uploads/2021/01/Madurai-Thirumalainayakmahal-ceiling-photo.jpg',
+    image: 'https://lakshmisharath.com/wp-content/uploads/2021/01/Magit rdurai-Thirumalainayakmahal-ceiling-photo.jpg',
     title: 'Thirumalai Nayakkar Mahal',
     description: 'Explore the magnificent royal palace showcasing Indo-Saracenic architecture'
   },
